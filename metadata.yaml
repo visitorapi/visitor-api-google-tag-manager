@@ -1,5 +1,5 @@
 homepage: "https://www.visitorapi.com"
 documentation: "https://www.visitorapi.com/documentation"
 versions:
-  - sha: 1f090ae3b9696f578d25a804f203bec3c4d29622
+  - sha: 1098c0acc8a17a68f420949dc38811f47feb2382
     changeNotes: Initial release.
