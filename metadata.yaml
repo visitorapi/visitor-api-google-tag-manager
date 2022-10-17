@@ -1,5 +1,5 @@
 homepage: "https://www.visitorapi.com"
-documentation: "https://www.visitorapi.com/documentation"
+documentation: "https://www.visitorapi.com/help-articles/google-tag-manager"
 versions:
   - sha: 78960646f1dd3464a76f4f2393b78fb09b035978
     changeNotes: init release.
